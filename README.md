@@ -1,6 +1,10 @@
 # online_shop
 
-A new Flutter project.
+Online Shop App - Flutter UI - Speed Code 
+
+by The Flutter Way
+
+https://youtu.be/XBKzpTz65Io
 
 ## Getting Started
 
